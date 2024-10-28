@@ -43,7 +43,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jairo0ff&theme=dark&hide_border=true)](https://git.io/streak-stats)
     
-![noisingAgus GitHub stats](https://github-readme-stats.vercel.app/api?username=jairo0ff&show_icons=true&theme=radical)
+![jairo0ff GitHub stats](https://github-readme-stats.vercel.app/api?username=jairo0ff&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairo0ff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
