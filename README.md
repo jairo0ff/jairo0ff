@@ -23,6 +23,8 @@
 
 ### 👨‍💻 About Me :
 
+- 👤 19 years old, living in Argentina
+
 - 👤 You can find me sometimes on discord
 
 - 👤 I program as a hobby and I study it
@@ -30,6 +32,8 @@
 - 👤 contact me: https://guns.lol/jairodev
 
 - 👤 I'm concentrating on learning "c++, rust and ts".
+
+- 👤 Studying programming since I was 12 years old
 
 <div align="left">
     <h3>Languages and Frameworks:</h3>
