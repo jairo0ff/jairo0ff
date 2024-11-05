@@ -38,7 +38,7 @@
 <div align="left">
     <h3>Languages and Frameworks:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,sass,ruby,python,rust,cpp,c,go,powershell,dart,java,django,flask,fastapi,flutter,express,qt,clion,cmake,angular,nestjs,sqlite,nodejs,nextjs,opencv,jest,cypress,docker,bootstrap,jquery,discordjs,atom,mongodb,kotlin,postgresql,nasm" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,sass,ruby,python,rust,cpp,c,go,powershell,dart,java,django,flask,fastapi,flutter,express,qt,clion,cmake,angular,nestjs,sqlite,nodejs,nextjs,opencv,jest,cypress,docker,bootstrap,jquery,discordjs,atom,mongodb,kotlin,postgresql" />
 </div>
 
 Mi sueño frustrado era aprender assembler
